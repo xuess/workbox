@@ -1,5 +1,3 @@
-# workbox分享
-
 
 ## service worker
 
@@ -396,6 +394,9 @@ workbox generateSW workbox-config.js
 
 > 参考文档：
 > [mdn](https://developer.mozilla.org/zh-CN/docs/Web/API/Service_Worker_API/Using_Service_Workers)
+> 
 > [workbox官方](https://developers.google.com/web/tools/workbox/guides/get-started)
+> 
 > [百度pwa](https://lavas.baidu.com/pwa/README)
+> 
 > [张鑫旭-借助Service Worker和cacheStorage缓存及离线开发](https://www.zhangxinxu.com/wordpress/2017/07/service-worker-cachestorage-offline-develop/)
