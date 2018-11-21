@@ -1,0 +1,1 @@
+console.log('indexjs is loaded 2');
